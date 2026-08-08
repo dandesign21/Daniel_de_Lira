@@ -38,6 +38,10 @@ With 10+ years across product management, product ownership, UX, quality, proces
 | [OpenHouse DX](https://openhousedx.com) | QR-enabled mobile flows that connect offline behavior with structured insights |
 | [Beatento](https://beatento.com) | AI-assisted behavioral tracking and continuous feedback loops |
 | [Mesero Experto](https://meseroexperto.com) | Conversational AI for guided service interactions |
+| [Hikepath](https://thehikepath.com) | Secure digital-legacy planning supported by encryption, blockchain, and AI |
+| [My Pocket Coach](https://mypocketcoa.ch) | Digital coaching product designed to make personal guidance more accessible |
+| [MyBizHelp](https://mybizhelp.me) | Digital support platform for business owners and entrepreneurs |
+| [Zenwa](https://zenwa.me) | Live deal-discovery platform with price signals, categories, filters, and search |
 
 Explore the complete portfolio and current work at [danieldelira.com](https://danieldelira.com).
 
