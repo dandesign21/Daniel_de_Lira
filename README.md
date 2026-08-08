@@ -40,7 +40,7 @@ With 10+ years across product management, product ownership, UX, quality, proces
 | [Mesero Experto](https://meseroexperto.com) | Conversational AI for guided service interactions |
 | [Hikepath](https://thehikepath.com) | Secure digital-legacy planning supported by encryption, blockchain, and AI |
 | [My Pocket Coach](https://mypocketcoa.ch) | Digital coaching product designed to make personal guidance more accessible |
-| [MyBizHelp](https://mybizhelp.me) | Digital support platform for business owners and entrepreneurs |
+| [The AIssistant / MyBizHelp](https://mybizhelp.me) | AI virtual secretary for 24/7 customer service, bookings, CRM ticketing, loyalty, staff workflows, and Stripe payments |
 | [Zenwa](https://zenwa.me) | Live deal-discovery platform with price signals, categories, filters, and search |
 
 Explore the complete portfolio and current work at [danieldelira.com](https://danieldelira.com).
