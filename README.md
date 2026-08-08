@@ -39,7 +39,7 @@ With 10+ years across product management, product ownership, UX, quality, proces
 | [Beatento](https://beatento.com) | AI-assisted behavioral tracking and continuous feedback loops |
 | [Mesero Experto](https://meseroexperto.com) | Conversational AI for guided service interactions |
 | [Hikepath](https://thehikepath.com) | Secure digital-legacy planning supported by encryption, blockchain, and AI |
-| [My Pocket Coach](https://mypocketcoa.ch) | Digital coaching product designed to make personal guidance more accessible |
+| [My Pocket Coach](https://mypocketcoa.ch) | AI sports-training platform that turns personalized drills into an RPG with XP, levels, challenges, and real-world rewards for athletes, parents, and coaches |
 | [The AIssistant / MyBizHelp](https://mybizhelp.me) | AI virtual secretary for 24/7 customer service, bookings, CRM ticketing, loyalty, staff workflows, and Stripe payments |
 | [Zenwa](https://zenwa.me) | Live deal-discovery platform with price signals, categories, filters, and search |
 
